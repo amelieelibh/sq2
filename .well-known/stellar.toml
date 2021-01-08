@@ -1,0 +1,22 @@
+VERSION="2.1.0"
+# amelie
+SQ02_EASTER_EGG="Log into series 2 of Stellar Quest then visit quest.stellar.org/series2. Finally drag and drop your Stellar Quest series 2 badge PNG images onto the screen. Enjoy!"
+
+[DOCUMENTATION]
+ORG_NAME="Amelie"
+ORG_URL="https://0j90x.csb.app"
+ORG_LOGO="http://itvanti.com/assets/resources/images/branding/itvanti-w-x100.png"
+ORG_DESCRIPTION="Amelie"
+ORG_PHYSICAL_ADDRESS="Mexico"
+ORG_KEYBASE="amelie"
+ORG_TWITTER="ameliebh"
+ORG_GITHUB="amelieelibh"
+ORG_OFFICIAL_EMAIL="amelieelibh@gmail.com"
+
+
+[[CURRENCIES]]
+code="SQ02_EASTER_EGG"
+issuer="GD5QNPQDYPM2CMJSHIPNFEWVZP7ZQ6GVQWHOFWST5KFEIU5A652YHNIM"
+display_decimals=2
+name="SQ02_EASTER_EGG"
+desc="Log into series 2 of Stellar Quest then visit quest.stellar.org/series2. Finally drag and drop your Stellar Quest series 2 badge PNG images onto the screen. Enjoy!"
